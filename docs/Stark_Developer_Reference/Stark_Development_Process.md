@@ -41,8 +41,8 @@ Stark follows an internal open-source model. All developers within Millennium ar
 
 ## 6. Create a Pull Request
 
--   Create a pull request to [the master branch](http://luxgit.mlp.com/algo-execsvcs/stark/pulls](http://luxgit.mlp.com/algo-execsvcs/stark/pulls).
--   GitHub will re-run all unit tests and only if they pass will it allow the request to be merged.
+-   Create a pull request to [the master branch](http://luxgit.mlp.com/algo-execsvcs/stark/pulls).
+-   GitHub will re-run all unit tests, and only if they pass will it allow the request to be merged.
 -   Check your pull request for comments and questions, and respond directly on the pull request (again, we try to avoid emails).
 -   The JIRA will automatically transition to "In Review"
 
