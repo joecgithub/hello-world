@@ -58,7 +58,7 @@ To keep the number of open pull requests manageable, we follow these guidelines:
 |--------|--------|
 |No Label |Pull request newly created and ready for merging, pending one other developer's approval.|
 |**changes requested** |Another developer has reviewed the pull request and asked for changes.|
-|**requested changes done** |Original developer has addressed all requested changes and the code is ready to be reviewed again.|
+|**requested changes done** |Original developer addressed all requested changes and code is ready to be reviewed again.|
 |**approved** |At least one other developer has approved the pull request and it can be merged.|
 |**request for comment** |Used only to request early: code is not yet complete and not intended to be merged as is.
 ## 8. When Your Pull Request Is Accepted
