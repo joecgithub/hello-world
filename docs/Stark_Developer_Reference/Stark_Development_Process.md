@@ -50,7 +50,7 @@ Stark follows an internal open-source model. All developers within Millennium ar
 
 To keep the number of open pull requests manageable, we follow these guidelines:
 
-- Keep pull requests small. It's better to send smaller, incremental pull requests rather than large ones with dozens of file changes. If the code is not complete, stub out not yet implemented parts. The code can be merged so long as it does not break existing functionality.
+- Keep pull requests small. It's better to send smaller, incremental pull requests rather than large ones with dozens of file changes. If the code is not complete, stub out parts not yet implemented. The code can be merged so long as it does not break existing functionality.
 - Avoid long-living pull requests: they should be actively worked on and/or reviewed. If a pull request persists more than a week without being worked on, close it then reopen later.
 - Pull request labels have the following meaning:
 
