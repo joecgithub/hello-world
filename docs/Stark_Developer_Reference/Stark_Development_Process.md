@@ -10,8 +10,8 @@ Stark follows an internal open-source model. All developers within Millennium ar
 
 ## 2. Create a JIRA
 
--   Go to the [JIRA projects page](https://jira.mlp.com/projects/AX/summary)and there
--   document your change. If soliciting input, you can use JIRA comments, and the @ sign to ask specific people questions to. Comments keep the conversation history, open to the public. We try to avoid using emails.
+-   Go to the [JIRA projects page](https://jira.mlp.com/projects/AX/summary).
+-   Document your change. If soliciting input, you can use JIRA comments, and the @ sign to ask specific people questions to. Comments keep the conversation history, open to the public. We try to avoid using emails.
 
   
 
@@ -41,7 +41,7 @@ Stark follows an internal open-source model. All developers within Millennium ar
 
 ## 6. Create a Pull Request
 
--   Create a pull request to the master branch: [http://luxgit.mlp.com/algo-execsvcs/stark/pulls](http://luxgit.mlp.com/algo-execsvcs/stark/pulls)
+-   Create a pull request to [the master branch](http://luxgit.mlp.com/algo-execsvcs/stark/pulls](http://luxgit.mlp.com/algo-execsvcs/stark/pulls).
 -   GitHub will re-run all unit tests and only if they pass will it allow the request to be merged.
 -   Check your pull request for comments and questions, and respond directly on the pull request (again, we try to avoid emails).
 -   The JIRA will automatically transition to "In Review"
