@@ -65,7 +65,7 @@ To keep the number of open pull requests manageable, we follow these guidelines:
 
 -   It will get merged to master and your changes will be available in the [new Jenkins build](http://rfpluxd01:8080/jenkins/view/STARK/job/stark/),
 -   and in [artifactory](http://rfpluxd01:8082/artifactory/webapp/home.html?0).
--   The JIRA will automatically transition to "QA".  
+-   The JIRA will automatically transition to "QA"  
       
     
 
