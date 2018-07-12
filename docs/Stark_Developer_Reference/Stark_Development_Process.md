@@ -56,7 +56,7 @@ To keep the number of open pull requests manageable, we follow these guidelines:
 
 | Label | Meaning |
 |--------|--------|
-|No Label |Pull request has just been created and is ready for merging, pending approval by at least one other developer.|
+|No Label |Pull request has just been created and is ready for merging, pending one other developer's approval.|
 |**changes requested** |Another developer has reviewed the pull request and asked for changes.|
 |**requested changes done** |Original developer has addressed all requested changes and the code is ready to be reviewed again.|
 |**approved** |At least one other developer has approved the pull request and it can be merged.|
