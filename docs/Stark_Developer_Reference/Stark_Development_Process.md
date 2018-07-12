@@ -72,6 +72,6 @@ To keep the number of open pull requests manageable, we follow these guidelines:
 ## 9. The next morning. . .
 
 - Integration tests run nightly [here](http://rfpluxd01:8080/jenkins/view/STARK/job/stark-soms-integration-tests/).
-- If your change caused an integration break, you will receive an email from StarkDev. If it can't be fixed the same, day it might be reverted:
+- If your change caused an integration break, you will receive an email from StarkDev. If it can't be fixed the same day, it might be reverted:
 
- ### **Otherwise, Congratulations -- Your change is in!**
+ ### **Otherwise, Congratulations -- Your Change Is In!**
